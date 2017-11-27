@@ -17,7 +17,7 @@
 		$services=$_POST["services"];
 		$price=$_POST["price"];
 		$details=process_data($_POST["details"]);
-		$subject="THE BINARIES: REQUEST FROM $name of $company_name";
+		$subject="<b>THE BINARIES: REQUEST FROM $name of $company_name</b>";
 		$msg="Name: ".$name."\n"
 			."Company Name: ".$company_name."\n"
 			."Email: ".$email."\n"
