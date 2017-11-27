@@ -145,6 +145,9 @@ input[type=submit]{
 	border:1px solid;
 	color:white;
 }
+#map{
+	width: 100%;
+}
 /*
 font-family: 'Bitter', serif;
 font-family: 'Lobster', cursive;

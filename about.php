@@ -14,7 +14,7 @@
 			</div>
 			<div class=\"row\">
 				<div class=\"col-md-12\">
-					<img src=\"images/address.png\">
+					<img id=\"map\" class=\"img-responsive\" src=\"images/address.png\">
 				</div>
 			</div>
 		</div>
