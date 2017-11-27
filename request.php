@@ -18,7 +18,7 @@
 					<input class=\"text-inp\" type=\"email\" name=\"email\" 	placeholder=\"enter your email\" required>
 				</div>
 				<div class=\"fel\">
-					<label><h5>Phone-Number eg. (876)123-4567</h5></label>
+					<label><h5>Phone-Number eg. 876123-4567</h5></label>
 					<input class=\"text-inp\" type=\"tel\" name=\"number\" 	placeholder=\"enter phone number\" required pattern=\"(\d\d\d)\d\d\d-\d\d\d\d\">
 				</div>
 				<div class=\"fel\">
