@@ -1,6 +1,7 @@
 var greeting=document.getElementById("greeting");
 var greetBar=document.getElementById("greeting-bar");
 var submit=document.getElementById("submit");
+var container=document.getElementById("para-container");
 function updateGreeting(){
 	var hours = (new Date()).getHours();
 	if(hours<12){
@@ -14,7 +15,12 @@ function updateGreeting(){
 		greeting.innerHTML = "Good Evening!";
 		greetBar.style.backgroundColor="#14a8ff";
 	}
-	submit.style.backgroundColor=greetBar.style.backgroundColor;
+	if(submit!=null){
+		submit.style.backgroundColor=greetBar.style.backgroundColor;
+	}
+	if(container!=null){
+		container.style.backgroundColor="black";
+	}
 }
 window.onload = updateGreeting;
 var finalPrice=0;

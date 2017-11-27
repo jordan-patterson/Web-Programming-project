@@ -13,7 +13,7 @@
 		if(isset($_POST['submit'])){
 			$name=process_data($_POST["name"]);
 			$email=process_data($_POST["email"]);
-			$subject='The Binaries - Feedback From '.$name;
+			$subject='<b>The Binaries - Feedback From '.$name.'</b>';
 			$message=process_data($_POST["message"]);
 			$msg="Name: ".$name."\n"
 				."Email: ".$email."\n"
