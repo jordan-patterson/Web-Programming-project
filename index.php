@@ -2,7 +2,7 @@
 	$active_page="home";
 	$page_title="Home";
 	$page_content="
-	<style>#welcome-h{color:#f4b042}</style>
+	<style>#welcome-h{color:#f4b042}body{background-color:black;}</style>
 		<div id=\"container-div\" class=\"container-fluid\">
 			<img id=\"fpage-img\" src=\"images/index2.jpg\">
 		</div>
