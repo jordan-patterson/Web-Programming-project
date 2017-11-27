@@ -31,7 +31,7 @@
 						<li>Backend Web Development (Python Flask, PHP)</li>
 						<li>Swimming</li>
 					</ul>
-					<p class=\"mem-desc\">Here is some <a href=\"https://bitbucket.org/jordantdk/\">code</a>
+					<p class=\"mem-desc\">Here is some <a href=\"https://bitbucket.org/jordantdk/\" target=\"_blank\">code</a>
 				</p>
 			</div>
 		</div>

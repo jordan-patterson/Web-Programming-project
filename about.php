@@ -8,8 +8,13 @@
 			<div class=\"row\">
 				<div class=\"col-md-12\">
 					<p class=\"desc\">
-						We are currently a small team of software enginners who attend the University of Technology, Jamaica. We want to extend our customers' businesses over the internet so that they can get more clients. Our goal is to make our customers happy and satisfied with our services.
+						We are currently a small team of software enginners who attend the University of Technology, Jamaica. We strongly believe that a business' potential can increase greatly over the web and so we deliver a service that crucial to the success of a business. Our goal is to make our customers happy and satisfied with our services.
 					</p>
+				</div>
+			</div>
+			<div class=\"row\">
+				<div class=\"col-md-12\">
+					<img src=\"images/address.png\">
 				</div>
 			</div>
 		</div>
