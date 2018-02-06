@@ -7,13 +7,13 @@ body,html{
 }
 #container{
 	min-height:100%;
-   position:relative;
+    position:relative;
 }
 #page-content{
 	padding-bottom: 100px;
 }
 #footer{
-	background-color: #333333;
+	background-color: white;
 	position:absolute;
 	left: 0;
 	bottom:0;
